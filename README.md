@@ -5,7 +5,7 @@
 - 📃 About me: [personal blog](https://gladiouszhang.github.io)
 
   
-![](https://github-readme-stats.vercel.app/api?username=GladiousZHang&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=GladiousZhang&show_icons=true&theme=transparent&count_private=true)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/GladiousZhang/count.svg) visitor,Thank You! 🫶
 
